@@ -17,38 +17,42 @@ body {
 }
 
 h1 {
-    color: #ff6347;
-    font-family: 'Comic Sans MS', cursive, sans-serif;
+    color: #74d9ca;
+    font-family: "Trebuchet MS",cursive, sans-serif;
     margin-bottom: 20px;
 }
 
 input {
     padding: 10px;
-    border: 2px solid #ff6347;
+    border: 2px solid #74d9ca;
     border-radius: 5px;
     font-size: 16px;
     margin-right: 10px;
+    font-family: "Trebuchet MS",cursive, sans-serif;
 }
 
 button {
     padding: 10px 20px;
     border: none;
     border-radius: 5px;
-    background-color: #ff6347;
+    background-color: #74d9ca;
     color: #fff;
     font-size: 16px;
     cursor: pointer;
+    font-family: "Trebuchet MS",cursive, sans-serif;
 }
 
 button:hover {
-    background-color: #e5533f;
+    background-color: #ff9692;
 }
 
 .card-placeholder {
     margin-top: 20px;
     padding: 20px;
-    border: 2px dashed #ff6347;
-    background-color: #fff4e6;
+    border: 2px dashed #74d9ca;
+    background-color: #e9fdfb;
     border-radius: 10px;
     font-size: 18px;
+    width: 400px;
+    height: 250px;
 }
