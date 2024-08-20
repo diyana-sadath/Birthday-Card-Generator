@@ -45,14 +45,3 @@ button {
 button:hover {
     background-color: #ff9692;
 }
-
-.card-placeholder {
-    margin-top: 20px;
-    padding: 20px;
-    border: 2px dashed #74d9ca;
-    background-color: #e9fdfb;
-    border-radius: 10px;
-    font-size: 18px;
-    width: 400px;
-    height: 250px;
-}
